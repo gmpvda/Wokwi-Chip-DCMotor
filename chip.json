@@ -2,7 +2,7 @@
   "name": "dc-motor",
   "author": "Pascal Meunier",
   "license": "MIT",
-  "docs": https://github.com/gmpvda/Wokwi-Chip-DCMotor/blob/main/docs/README.md",
+  "docs": "https://github.com/gmpvda/Wokwi-Chip-DCMotor/blob/main/docs/README.md",
   "pins": [
     "VCC",
     "GND",
