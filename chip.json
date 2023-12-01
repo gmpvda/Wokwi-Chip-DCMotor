@@ -1,0 +1,17 @@
+{
+  "name": "dc-motor",
+  "author": "Pascal Meunier",
+  "pins": [
+    "VCC",
+    "GND",
+    "IND",
+    "",
+    "",
+    ""
+  ],
+    "display": {
+    "width": 256,
+    "height": 29
+  },
+  "controls": []
+}
