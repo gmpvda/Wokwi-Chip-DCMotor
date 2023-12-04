@@ -64,5 +64,5 @@
     [ "mega:10", "dc-motor1:IND", "green", [ "v0" ] ]
   ],
   "serialMonitor": { "display": "auto", "newline": "none", "convertEol": false },
-  "dependencies": { "chip-scope": "github:Dlloydev/Wokwi-Chip-scope@1.0.7" }
+  "dependencies": { "chip-scope": "github:Dlloydev/Wokwi-Chip-scope@1.0.7", "chip-dc-motor": "github:gmpvda/Wokwi-Chip-DCMotor@0.7.1" }
 }
