@@ -47,4 +47,3 @@ jobs:
           artifacts: chip.zip
           token: ${{ secrets.GITHUB_TOKEN }}
 		  allowUpdates: true
-          generateReleaseNotes: true
